@@ -4,5 +4,6 @@ public class Main {
 		
 		String branch_name = "master branch!!";
 		System.out.println("branch_name : " + branch_name);
+		System.out.println("master 보호!!");
 	}
 }
